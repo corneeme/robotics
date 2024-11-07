@@ -1,6 +1,7 @@
-DCmotor motor;
+DcMotor lfmotor;
 
 motor = hardwareMap("motor");
+
 
 
 
